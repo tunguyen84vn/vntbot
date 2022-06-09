@@ -1,0 +1,62 @@
+
+======================================================================================
+ FILEEJOINER END-USER LICENSE AGREEMENT
+ Copyright 2006 - 2020 filejoiner.com
+ All Rights Reserved
+======================================================================================
+
+Please read this document carefully before using File Joiner (hereinafter "SOFTWARE").
+This END-USER LICENSE AGREEMENT (hereinafter "EULA") is a legal agreement between you
+and the SOFTWARE developers (hereinafter "AUTHOR").
+By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the
+terms of the EULA. If you do not agree to the terms of the EULA, you must remove the
+SOFTWARE from your computer hard disk and cease to use it.
+
+======================================================================================
+
+ 1. GRANT OF LICENSE
+
+The AUTHOR grants you a limited, non-exclusive license to use the trial version
+of the SOFTWARE. You are hereby licensed to use the trial version of the SOFTWARE
+for evaluation purposes for 7 (seven) days.  After that time you must either purchase
+a full version or delete the trial version of the SOFTWARE from your hard disk.
+You may freely distribute the trial version of the SOFTWARE as long as the original
+distribution package is not modified. All the SOFTWARE users are subject to the terms
+of the EULA.
+
+ 2. LEGALITIES
+
+The SOFTWARE must be used in a lawful manner.
+The AUTHOR will not be responsible in any way for the SOFTWARE misuse by any customer.
+Any improper action is the sole responsibility of the person committing the action.
+Any illegal use of the SOFTWARE is forbidden by the EULA.
+
+ 3. OWNERSHIP  
+
+The SOFTWARE is owned and copyrighted by the AUTHOR. Your license confers no ownership
+of the SOFTWARE. The SOFTWARE cannot be rented, leased or transferred.
+
+ 4. COPYRIGHT
+
+The SOFTWARE is protected by copyright laws and international copyright treaties, as well
+as other intellectual property laws and treaties.
+
+ 5. LIMITATIONS
+
+You may not decompile, disassemble or otherwise reverse engineer the SOFTWARE.
+You may not modify, rent or resell for profit the SOFTWARE.
+
+ 6. WARRANTY
+
+The SOFTWARE is provided "AS IS", no warranty of any kind is expressed or implied.
+To the maximum extent permitted by the applicable law, in no event shall the author be
+liable for any consequential, incidental, direct, indirect, special, punitive, or other
+damages whatsoever (including, without limitation, damages for loss of business profits,
+business interruption, loss of business information, or other pecuniary loss) arising out
+of this agreement or the use of or inability to use the SOFTWARE, even if the AUTHOR has
+been advised of the possibility of such damages.
+
+ 7. TERMINATION
+
+The license will be terminated automatically if you fail to comply with any of the above
+terms and conditions. 
